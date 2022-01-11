@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cinnaswole
-- 👀 I’m interested in game and software development
+- 👀 I’m interested in game and web development
 - 🌱 I’m currently learning Python
 
 <!---
